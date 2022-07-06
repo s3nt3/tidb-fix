@@ -4,6 +4,7 @@ go 1.18
 
 require (
 	github.com/gin-gonic/gin v1.8.1
+	github.com/gorilla/websocket v1.5.0
 	golang.org/x/net v0.0.0-20220630215102-69896b714898
 	golang.org/x/text v0.3.7
 	gopkg.in/yaml.v3 v3.0.1
